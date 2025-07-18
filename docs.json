@@ -48,22 +48,14 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "API Reference",
         "groups": [
           {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
+            "group": "API Documentation",
+            "openapi": {
+              "source": "https://spec.speakeasy.com/cmos/api/cmos-account-management-api-with-code-samples",
+              "directory": "api-reference"
+            }
           }
         ]
       }
