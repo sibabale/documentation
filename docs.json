@@ -53,7 +53,7 @@
           {
             "group": "API Documentation",
             "openapi": {
-              "source": "https://spec.speakeasy.com/cmos/api/cmos-account-management-api-with-code-samples",
+              "source": "https://spec.speakeasy.com/rails/poc/rails-po-c-api-with-code-samples",
               "directory": "api-reference"
             }
           }
