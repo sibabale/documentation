@@ -52,10 +52,7 @@
         "groups": [
           {
             "group": "API Documentation",
-            "openapi": {
-              "source": "https://spec.speakeasy.com/rails/poc/rails-po-c-api-with-code-samples",
-              "directory": "api-reference"
-            }
+            "openapi": "api-reference/openapi.json"
           }
         ]
       }
